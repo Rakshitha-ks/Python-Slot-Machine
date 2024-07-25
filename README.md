@@ -1,6 +1,6 @@
 # Slot Machine
-
-This is a Python program that simulates a simple slot machine game. Players can deposit money, choose the number of lines to bet on, and bet on each line. The slot machine then generates random symbols and checks for winning combinations on the selected lines.
+Spin the virtual slot machine and try your luck at winning big! Choose the number of lines and amount to bet per line, then watch as the 3x3 grid of symbols is generated. Calculate your winnings based on matching symbols and see if you have what it takes to beat the odds. Play as many rounds as you like and see if you can come out on top. 
+Players can deposit money, choose the number of lines to bet on, and bet on each line. The slot machine then generates random symbols and checks for winning combinations on the selected lines.
 
 ## Usage
 
